@@ -5,7 +5,23 @@
 🎓 Studying Business IT in Jyväskylä University of Applied Sciences
 
 ### Skills
-[![Skills](https://skillicons.dev/icons?i=js,html,css,mysql,vscode,aws,git,windows,linux)](https://skillicons.dev)
+Languages:
+
+[![Skills](https://skillicons.dev/icons?i=js,html,css,bash,mysql)](https://skillicons.dev)
+
+Visual Tools:
+
+[![Skills](https://skillicons.dev/icons?i=photoshop,figma,illustrator)](https://skillicons.dev) 
+Procreate
+
+Others:
+
+[![Skills](https://skillicons.dev/icons?i=git,github,wordpress,vscode,nodejs,npm,powershell,aws)](https://skillicons.dev)
+
+OS:
+
+[![Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+
 
 
 <!--
