@@ -11,12 +11,12 @@ Languages:
 
 Visual Tools:
 
-[![Skills](https://skillicons.dev/icons?i=photoshop,figma,illustrator)](https://skillicons.dev) 
+[![Skills](https://skillicons.dev/icons?i=photoshop,figma,illustrator,tailwind)](https://skillicons.dev) 
 and Procreate
 
 Others:
 
-[![Skills](https://skillicons.dev/icons?i=git,github,tailwind,wordpress,vscode,nodejs,npm,powershell,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,wordpress,vscode,nodejs,npm,aws)](https://skillicons.dev)
 
 OS:
 
