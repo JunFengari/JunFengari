@@ -24,6 +24,10 @@ OS:
 
 [![Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
+AWS badges: 
+
+<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/badge.png" width="90">
+
 
 
 <!--
