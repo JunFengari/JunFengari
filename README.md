@@ -4,7 +4,7 @@
 
 🎓 Studying Business IT in Jyväskylä University of Applied Sciences
 
-Currently interested in Scripting and Automation, Cloud services, AI, and Cybersecurity
+Currently interested in Scripting and Automation, Cloud services, and AI
 
 ### Skills
 Languages:
