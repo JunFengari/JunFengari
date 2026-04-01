@@ -4,7 +4,6 @@
 
 🎓 Studying Business IT in Jyväskylä University of Applied Sciences
 
-Currently interested in AWS and other cloud services, AI, Scripting and Automation
 
 ### Skills
 Languages:
