@@ -6,6 +6,11 @@
 
 
 ### Skills
+AWS badges: 
+
+<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/badge.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/aws-academy-graduate-data-engineering-training-badg.png" width="100">
+<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main//aws-academy-graduate-cloud-architecting-training-ba.png" width="100">
+
 Languages:
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,bash,mysql,powershell)](https://skillicons.dev)
@@ -23,10 +28,7 @@ OS:
 
 [![Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
-AWS badges: 
 
-<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/badge.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/aws-academy-graduate-data-engineering-training-badg.png" width="100">
-<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main//aws-academy-graduate-cloud-architecting-training-ba.png" width="100">
 
 
 
