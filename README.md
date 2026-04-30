@@ -2,10 +2,17 @@
 
 ### About me
 
-🎓 Studying Business IT in Jyväskylä University of Applied Sciences
+🎓 Currently studying Business IT in the Jyväskylä University of Applied Sciences. 
+My main focus in my studies is in AWS, particilarly in architecture, infrastructure engineering, data engineering, and AI development in the cloud.
+
+In my free time online, I like to create scripts to automate my workflows, as well as small websites and programs for fun. 
+
+My projects portfolio is currently under construction, but will be linked here...
+All mentioned projects are in my repositories, or within my university organization repositories. 
 
 
 ### Skills
+
 AWS badges: 
 
 <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/badge.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/aws-academy-graduate-data-engineering-training-badg.png" width="100">
@@ -15,14 +22,19 @@ Languages:
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,bash,mysql,powershell)](https://skillicons.dev)
 
+Databases:
+
+[![Skills](https://skillicons.dev/icons?i=dynamodb,mysql,mongodb)](https://skillicons.dev)
+and Neo4j
+
 Visual Tools:
 
 [![Skills](https://skillicons.dev/icons?i=figma,illustrator,tailwind,photoshop)](https://skillicons.dev) 
 and Procreate
 
-Others:
+Other technologies: 
 
-[![Skills](https://skillicons.dev/icons?i=aws,git,github,wordpress,vscode,nodejs,npm)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,git,github,wordpress,vscode,nodejs,npm,electron,docker)](https://skillicons.dev)
 
 OS:
 
