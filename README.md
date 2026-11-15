@@ -15,8 +15,8 @@ All mentioned projects are in my repositories, or within my university organizat
 
 AWS badges: 
 
-<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/badge.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/aws-academy-graduate-data-engineering-training-badg.png" width="100">
-<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main//aws-academy-graduate-cloud-architecting-training-ba.png" width="100">
+<img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main//aws-academy-graduate-generative-ai-foundations-trai.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main//aws-academy-graduate-cloud-architecting-training-ba.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/aws-academy-graduate-data-engineering-training-badg.png" width="100"> <img src="https://raw.githubusercontent.com/JunFengari/JunFengari/main/badge.png" width="100"> 
+
 
 Languages:
 
