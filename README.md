@@ -6,9 +6,7 @@
 My main focus in my studies is in AWS, particilarly in architecture, infrastructure engineering, data engineering, and AI development in the cloud.
 
 In my free time online, I like to create scripts to automate my workflows, as well as small websites and programs for fun. 
-
-My projects portfolio is currently under construction, but will be linked here...
-All mentioned projects are in my repositories, or within my university organization repositories. 
+My projects can be found in my repositories, or within my university organization's repositories. 
 
 
 ### Skills
